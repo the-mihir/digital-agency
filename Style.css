@@ -2,3 +2,38 @@
     margin: 0;
     padding: 0;
 }
+
+.container {
+    display: flex;
+}
+
+
+.box {
+    border: 1px solid gray;
+    padding: 20px;
+    margin: 10px;
+    background-color: red;
+    color: #e7e7e7;
+    width: 110px;
+    text-align: center;
+}
+
+.box-1 {
+    border: 1px solid gray;
+    padding: 20px;
+    margin: 10px;
+    background-color: rgb(14, 72, 166);
+    color: #e7e7e7;
+    width: 110px;
+    text-align: center;
+}
+
+.box-2 {
+    border: 1px solid gray;
+    padding: 20px;
+    margin: 10px;
+    background-color: rgb(158, 14, 166);
+    color: #e7e7e7;
+    width: 110px;
+    text-align: center;
+}
